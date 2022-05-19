@@ -10,4 +10,9 @@ Because we are trying to map out supply chains based on text data we think that 
 
 For a bit more context, in essence we are trying to use the government's [list of critical technologies](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf) to identify important subcontractors within the defense industrial base who supply those products or inputs to them. From an adversarial perspective, the most important subcontractors to find are ones that are either pervasive (appearing in many critical supply chains) or provide a unique product (and are therefore a single point of failure).
 
-The important columns of concern in the Subcontractors dataset are subcontractors' company info, geographical presence, and description of services rendered etc. and this project mainly focuses on 
+The important columns of concern in the [Subcontractors dataset](https://github.com/Nikita-Pardeshi/Evaluate-Cybersecurity-Threat/Dataset_Contract_Sub-Awards.csv) are subcontractors' company info, geographical presence, and description of services rendered etc. and this project mainly focuses on the relationships between the subcontractors and their parent companies and finding important subcontractors based on 2 critical criteria defined by the NSA: 
+
+* Subcontractors appearing in majority of the supply chain or contracts.
+* Subcontractors that provide with a unique product.
+
+More details about the problem statement can be found [here](https://github.com/Nikita-Pardeshi/Evaluate-Cybersecurity-Threat/blob/51a4f3280543129cf309e15b839b843bf365a391/SC-NSA-24-%20Cyber%20Risk%20Management%20and%20Prioritization-FINAL%20(1)%20(1).pdf)
