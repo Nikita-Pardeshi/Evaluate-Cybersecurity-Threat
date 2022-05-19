@@ -9,3 +9,5 @@ The key database for analyzing & quantifying contract risk is the [USASpending](
 Because we are trying to map out supply chains based on text data we think that NLP and network analysis would likely be the most relevant approaches. 
 
 For a bit more context, in essence we are trying to use the government's [list of critical technologies](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf) to identify important subcontractors within the defense industrial base who supply those products or inputs to them. From an adversarial perspective, the most important subcontractors to find are ones that are either pervasive (appearing in many critical supply chains) or provide a unique product (and are therefore a single point of failure).
+
+The important columns of concern in the Subcontractors dataset are subcontractors' company info, geographical presence, and description of services rendered etc. and this project mainly focuses on 
