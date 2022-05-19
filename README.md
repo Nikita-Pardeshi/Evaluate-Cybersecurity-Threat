@@ -1,6 +1,6 @@
 # Evaluate Cybersecurity Threat
 
-### A data visualization mini-project using Highcharts in JS
+### A data visualization mini-project using Python and Highcharts
 
 ## Website: https://nikita-pardeshi-evaluate-cybersecurity-threat.netlify.app/
 
