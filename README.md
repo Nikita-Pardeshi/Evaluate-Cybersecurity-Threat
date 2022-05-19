@@ -2,7 +2,7 @@
 
 ### A data visualization mini-project using Highcharts in JS
 
-## [Website](https://nikita-pardeshi-evaluate-cybersecurity-threat.netlify.app/)
+## Website: https://nikita-pardeshi-evaluate-cybersecurity-threat.netlify.app/
 
 
 This is part of a cyber risk project for the NSA. Their task is to help the NSA develop new methods for prioritizing cyber risk among Defense Industrial Base companies. They are focusing on contract/supply chain risk as the key dimension of overall cyber risk - essentially hoping to build a model of how likely a defense company is to be targeted for cyber espionage based on their products and subcontractors.
