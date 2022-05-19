@@ -213,6 +213,10 @@ a:focus {
   font-size: 5rem;
 }
 
+.tm-hero-subtitle {
+  font-size: 2rem;
+}
+
 .tm-intro-next {
   position: absolute;
   bottom: 100px;
